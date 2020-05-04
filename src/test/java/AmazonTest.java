@@ -14,7 +14,6 @@ public class AmazonTest {
 
     private static WebDriver driver;
 
-
     @BeforeMethod
     public  void setup(){
         //prepare to environment in order to test
